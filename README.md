@@ -197,7 +197,7 @@ Get.lazyPut<SudokuController>(() => SudokuController());
 
 ## 📋 版本历史
 
-### v1.0.0 (2024-12-24)
+### v1.0.0 (2025-07-07)
 
 #### 🎉 首次发布
 - ✅ 完整的数独游戏功能
