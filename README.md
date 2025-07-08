@@ -232,14 +232,6 @@ Get.lazyPut<SudokuController>(() => SudokuController());
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 📧 Email: [your-email@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/sudoku_game/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/sudoku_game/discussions)
-
 ---
 
 <div align="center">
